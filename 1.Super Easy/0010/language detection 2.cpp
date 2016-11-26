@@ -29,7 +29,7 @@ int main()
             break;
 
         else
-            printf("UNKNOWN");
+            printf("Case %d: UNKNOWN", i++);
 
         printf("\n");
     }
